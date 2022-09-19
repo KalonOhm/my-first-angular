@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+h3 {
+  color: blue;
+  padding: 3px;
+  text-indent: 7px;
+}
+body {
+  margin: 15px;
+  padding: 15px;
+}
